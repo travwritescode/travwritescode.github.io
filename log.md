@@ -27,3 +27,13 @@
 **Thoughts:** Flexbox is simple in theory, difficult in practice. But this is what practice is all about, solidfying the theory! The practice was done on the Odin Project practice repo which I am not pushing to GitHub.
 
 **Link to work:** N/A, finished 3 modules in the Odin Project Flexbox section. Doing the practice for the 4th module.
+
+---
+
+### Day 4: February 10, 2024
+
+**Today's Progress**: Practice exercises for flexbox in the odin-css-exercises repo. Did all of the exercises except for the last one.
+
+**Thoughts:** Flexbox is definitely getting easier, though I feel like I am over-engineering some of my solutions. Some more study and practice on this concept and I think I'll will be doing really well.
+
+**Link to work:** [odin-css-exercises/flex](https://github.com/travwritescode/odin-css-exercises/tree/main/flex)
