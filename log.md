@@ -37,3 +37,14 @@
 **Thoughts:** Flexbox is definitely getting easier, though I feel like I am over-engineering some of my solutions. Some more study and practice on this concept and I think I'll will be doing really well.
 
 **Link to work:** [odin-css-exercises/flex](https://github.com/travwritescode/odin-css-exercises/tree/main/flex)
+
+---
+
+### Day 5: February 11, 2024
+
+**Today's Progress**: Finished the final exercise for flexbox on the holy grail layout. Got started on the landing page project at the end of the flexbox section.
+
+**Thoughts:** I feel like I have a pretty good handle on CSS and HTML right now. Flexbox is still tough and I need to spend some time reading the resources I have put in my to-dos. The landing page project is going alright but I am definitely deep in something I have a tenuous at best grasp of. Struggling to make all content centered like in the reference image (while extending background colors to the edges of the page). It feels like a mess but I understand that is part of the process.
+Maybe if I work any further today it will be on reading and studying materials.
+
+**Link to work:** [TOP Landing Page Project](https://github.com/travwritescode/odin-landing-page)
