@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 7: February 13, 2024
+
+**Today's Progress**: Finished working on the Odin Project landing page project. Got started on the JavaScript lessons.
+
+**Thoughts:** All done with the landing page project and moving on t JavaScript! I wonder how clean my project solution really is because it feels like it was hacked together. I know it is not very responsive but it definitely looks better than I expected. Excited to be into the thick of it in JavaScript now!
+
+**Link to work:** [TOP Landing Page Project](https://github.com/travwritescode/odin-landing-page)
+
+---
+
 ### Day 6: February 12, 2024
 
 **Today's Progress**: Continued working on landing page project. Added info section, quote section, and call to action section.
