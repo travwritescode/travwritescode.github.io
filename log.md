@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 8: February 14, 2024
+
+**Today's Progress**: Lots of reading about JavaScript basics. Variables, data types, Chrome Devtools, and functions
+
+**Thoughts:** Tough going on a day I am very sleepy. I am kind of building up a bunch of backlog items I am ignoring in the name of progress on the TOP curriculum. I am going to need to take some time to go back and get through all of these backlog items including interactive learning, videos, and articles.
+
+**Link to work:** N/A - made it through 3.5 modules in The Odin Project JavaScript Basics chapter.
+
+---
+
 ### Day 7: February 13, 2024
 
 **Today's Progress**: Finished working on the Odin Project landing page project. Got started on the JavaScript lessons.
