@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 9: February 15, 2024
+
+**Today's Progress**: More reading about JavaScript functions and a little bit of practice in writing them.
+
+**Thoughts:** Reading, reading, reading. So much reading on functions but they are really funky in JavaScript. With declarations, expressions, and arrow functions, callbacks, the syntax is wild and wacky. I am ready to start practicing after all of this reading though. Bring on the project!
+
+**Link to work:** N/A - finished the Functions module in the JavaScript Basics course on The Odin Project.
+
+---
+
 ### Day 8: February 14, 2024
 
 **Today's Progress**: Lots of reading about JavaScript basics. Variables, data types, Chrome Devtools, and functions
