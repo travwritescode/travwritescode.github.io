@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 10: February 16, 2024
+
+**Today's Progress**: Worked through the Problem Solving, Understanding Errors, and Clean Code modules in the JavaScript basics course. Also completed the ROck Paper Scissors project.
+
+**Thoughts:** I can still pick up programming languages rather easily. The Rock Paper Scissors project was quite easy to complete, only requiring about an hour of work. The rest of the modules were interesting today, especially the article on pseudocode. I am excited to continue with Node.js and get deeper into JavaScript!
+
+**Link to work:** [Rock Paper Scissors](https://travwritescode.github.io/rock-paper-scissors/)
+
+---
+
 ### Day 9: February 15, 2024
 
 **Today's Progress**: More reading about JavaScript functions and a little bit of practice in writing them.
