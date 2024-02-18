@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 12: February 18, 2024
+
+**Today's Progress**: JavaScript Exercises
+
+**Thoughts:** Just practicing JavaScript today by doing the JavaScript exercises in the exercises file from the Odin Project GitHub page. Completed them all in a little over an hour. Will be getting started with the DOM manipulation module today if I can make more time to work on this.
+
+**Link to work:** N/A - JavaScript practice exercises from forked GH repo.
+
+---
+
 ### Day 11: February 17, 2024
 
 **Today's Progress**: Another day of reading, this time about loops. Also installed Node.js on my virtual machine.
