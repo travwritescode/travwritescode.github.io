@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 11: February 17, 2024
+
+**Today's Progress**: Another day of reading, this time about loops. Also installed Node.js on my virtual machine.
+
+**Thoughts:** More reading! All refreshers on loops. It is weird how JavaScipt has a for loop but the syntax is different. Anyways, I am not up to the JavaScript exercises portion and raring to go tomorrow.Excited to get through this and on to the next project. 85% of the way through Foundations! Let's go!
+
+**Link to work:** N/A - Installed Node.js and got through most of the loops on the Odin Project.
+
+---
+
 ### Day 10: February 16, 2024
 
 **Today's Progress**: Worked through the Problem Solving, Understanding Errors, and Clean Code modules in the JavaScript basics course. Also completed the ROck Paper Scissors project.
