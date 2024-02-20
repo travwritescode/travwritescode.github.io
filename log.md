@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 14: February 20, 2024
+
+**Today's Progress**: Finsihed DOM Manipulation Module and started Rock Paper Scissors UI
+
+**Thoughts:** Coding up a basic UI for Rock Paper Scissors game. A little bit tricky getting everything to work together and i need to figure out a way to reset the game loop by resetting the scores once one of them reaches 5.
+
+**Link to work:** Progress in the rock paper scissors repo on the [rps-ui branch](https://github.com/travwritescode/rock-paper-scissors/tree/rps-ui)
+
+---
+
 ### Day 13: February 19, 2024
 
 **Today's Progress**: DOM Manipulation Lesson
