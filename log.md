@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 13: February 19, 2024
+
+**Today's Progress**: DOM Manipulation Lesson
+
+**Thoughts:** Low energy day today. I made it most of the way through the module on DOM manipulation with JavaScript. It was a long one with a lot of interactive learning, but the learning is super important so I am taking my time a little bit. Also, just a sort of low-energy day today.
+
+**Link to work:** N/A - DOM manipulation with javaScript module.
+
+---
+
 ### Day 12: February 18, 2024
 
 **Today's Progress**: JavaScript Exercises
