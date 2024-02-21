@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 15: February 21, 2024
+
+**Today's Progress**: Finished the Rock Paper Scissors UI portion with winner message display. Started on the etch-a-sketch project.
+
+**Thoughts:** I think I could probably make some improvements to the game flow of the rock paper scissors game. It doesn't need to be the most optimized web page but the way it is set up right now is a little bit inefficient.
+I got started on the etch-a-sketch project too. While previously I was intimidated by this one, getting it set up and a basic grid and functionality was a breeze. I suspect I should be able to wrap this one up rather quickly once I sit down to work on it again.
+
+**Link to work:** Finished Rock Paper Scissors [Rock Paper Scissors](https://travwritescode.github.io/rock-paper-scissors/)
+
+---
+
 ### Day 14: February 20, 2024
 
 **Today's Progress**: Finsihed DOM Manipulation Module and started Rock Paper Scissors UI
