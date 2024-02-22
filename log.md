@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 16: February 22, 2024
+
+**Today's Progress**: Finished the Etch-A-Sketch project.
+
+**Thoughts:** Etch-A-Sketch was a fun one! It was a little bit tricky in the middle there but I got it all working properly. I could have improved it with the extra credit problems and some better styling, but I think it is a pretty darn good solution!
+Excited to wrap up the Fundamentals course and move on to my JavaScript path!
+
+**Link to work:** Finished [Etch-A-Sketch](https://travwritescode.github.io/etch-a-sketch/)
+
+---
+
 ### Day 15: February 21, 2024
 
 **Today's Progress**: Finished the Rock Paper Scissors UI portion with winner message display. Started on the etch-a-sketch project.
