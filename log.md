@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 18: February 23, 2024
+
+**Today's Progress**: JavaScript Exercises progress
+
+**Thoughts:** Did JavaScript exercises from the Odin Porject JavaScript Exercises repo. Completed the calculator, palindromes, and fibonacci exercises. My solution for fibonacci was definitely pretty hacky and poorly organized and optimized. My solution for the palindromes exercise was pretty spot on though. A lack of understanding of how regular expressions work made my solution look a bit messy. I will need to revisit those and watch the video I have saved in my to-dos.
+
+**Link to work:** N/A - JavaScript exercises
+
+---
+
 ### Day 17: February 22, 2024
 
 **Today's Progress**: Objects module progress.
