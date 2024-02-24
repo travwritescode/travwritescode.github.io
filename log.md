@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 17: February 22, 2024
+
+**Today's Progress**: Objects module progress.
+
+**Thoughts:** This module is a dense one. This is the first real practice with a lot of callback functions and these array methods we are learning in `filter()`, `map()` and `reduce()` are going to be hugely important for upcoming work. I am definitely going to take my time with the exercises and make sure I have them down and well understood before moving on.
+Definitely a little bit distracted today before we fly out in the morning to go to MN. Will need to get my coding in on the plane in the morning.
+
+**Link to work:** N/A - Objects Module
+
+---
+
 ### Day 16: February 22, 2024
 
 **Today's Progress**: Finished the Etch-A-Sketch project.
