@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 19: February 24, 2024
+
+**Today's Progress**: Continuing work on JavaScript exercises
+
+**Thoughts:** Worked more on the JavaScript exercises files. I got the `getTheTitles.js` tests solved (though not using JS array methods) but I am really struggling with the `getTheOldest.js`. I can't figure out the `.reduce()` method and how that is supposed to be used for the solution on this one. I think I will need some help from the people in the Discord channel for JS help.
+
+**Link to work:** N/A - JavaScript exercises
+
+---
+
 ### Day 18: February 23, 2024
 
 **Today's Progress**: JavaScript Exercises progress
