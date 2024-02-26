@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 20: February 25, 2024
+
+**Today's Progress**: Finished JavaScript exercises
+
+**Thoughts:** Yikes. The `findTheOldest()` solution took me way too long. I had sort convoluted the logic of a couple of different things and was using the wrong function to check the one of the values existed. After some help from Discord and more trial and error, including debugging in VSCode, I have a working solution!
+That was a ton of work but I have done a good job of sticking with it and perservering to arrive at a solution. Excited to start on the final project for the Foundations course and move on to the JavaScript path!
+
+**Link to work:** N/A - JavaScript exercises
+
+---
+
 ### Day 19: February 24, 2024
 
 **Today's Progress**: Continuing work on JavaScript exercises
