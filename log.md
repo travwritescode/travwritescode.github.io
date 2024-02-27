@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 21: February 26, 2024
+
+**Today's Progress**: Started on the Calculator project
+
+**Thoughts:** Getting started on the Calculator project for the Odin Project. I got the basic JavaScript functions set up and got some basic visual presentation set up. I think styling this a lot more is something I probably want to do at some point in the future. Flexbox is still pretty difficult for me so I think I probably need to spend some time reviewing and practicing it again.
+I left off on step 5, creating the functions to populate the display of the calculator. This might be a little bit tricky because each button needs to display a different value. I should spend a little bit of time thinking about how I want to implement this.
+
+**Link to work:** [Calculator Project](https://github.com/travwritescode/calculator)
+
+---
+
 ### Day 20: February 25, 2024
 
 **Today's Progress**: Finished JavaScript exercises
