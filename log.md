@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 21: February 26, 2024
+### Day 22: February 28, 2024
+
+**Today's Progress**: Continued working on Calculator project
+
+**Thoughts:** making good progress on the calculator project. I kind of borked the visual display of it when I changed it up to try and use flex-grow to style it better. I put that issue on the shelf for a bit while I move on to the calculator functionality, which is coming along very well! Slowly solving problems and getting closer to a full solution.
+Tomorrow I think I will be tackling stringing operations together by just clicking the operators buttons again. I think this will be achieved with conditionals checking that the number variables are cleared, so I will need to stay on top of that with a clean code loop.
+
+**Link to work:** [Calculator Project](https://github.com/travwritescode/calculator)
+
+---
+
+### Day 21: February 27, 2024
 
 **Today's Progress**: Started on the Calculator project
 
@@ -11,7 +22,7 @@ I left off on step 5, creating the functions to populate the display of the calc
 
 ---
 
-### Day 20: February 25, 2024
+### Day 20: February 26, 2024
 
 **Today's Progress**: Finished JavaScript exercises
 
@@ -22,7 +33,7 @@ That was a ton of work but I have done a good job of sticking with it and perser
 
 ---
 
-### Day 19: February 24, 2024
+### Day 19: February 25, 2024
 
 **Today's Progress**: Continuing work on JavaScript exercises
 
@@ -32,7 +43,7 @@ That was a ton of work but I have done a good job of sticking with it and perser
 
 ---
 
-### Day 18: February 23, 2024
+### Day 18: February 24, 2024
 
 **Today's Progress**: JavaScript Exercises progress
 
@@ -42,7 +53,7 @@ That was a ton of work but I have done a good job of sticking with it and perser
 
 ---
 
-### Day 17: February 22, 2024
+### Day 17: February 23, 2024
 
 **Today's Progress**: Objects module progress.
 
