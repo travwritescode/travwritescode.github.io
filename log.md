@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 23: February 29, 2024
+
+**Today's Progress**: Finished the Calculator project and the Foundations course
+
+**Thoughts:** BIG day today because I FINISHED the Foundations course! And as part of that I also finished the biggest project of that course: the Calculator project. The project was challenging at times and a great summary of everything to do with HTML, CSS, and JavaScript. I am very proud of my finished product with the calculator as I completed all checkpoints, including extra credit ones, except for the keyboard support. I will probably want to come back to this some time in the future to refactor and see if I can improve the code.
+
+Now, on to bigger things! It is time to start the Intermediate HTML and CSS course and deepen my knowledge of these front-end technologies. This is what excites me most right now because it is a fun creative outlet and I may want to get a job as a web designer. Knowing how these things work will help me to get a job or just get better at it!
+
+**Link to work:** [Calculator Project](https://github.com/travwritescode/calculator) - [Live Preview](https://travwritescode.github.io/calculator/)
+
+---
+
 ### Day 22: February 28, 2024
 
 **Today's Progress**: Continued working on Calculator project
