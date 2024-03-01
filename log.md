@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 24: March 1, 2024
+
+**Today's Progress**: Got started on Intermediate HTML & CSS Course
+
+**Thoughts:** Light day today. Just getting started with some modules in the Intermediate HTML & CSS Course on the Odin Project. I learned about Emmet which is going to be a hugely powerful tool when I am writing HTML on future projects. I also learned about SVGs. This is exciting to me because it is a visual medium and potential outlet for a lot of creativity in my projects.
+
+**Link to work:** N/A
+
+---
+
 ### Day 23: February 29, 2024
 
 **Today's Progress**: Finished the Calculator project and the Foundations course
