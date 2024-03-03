@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 26: March 3, 2024
+
+**Today's Progress**: Lots of reading for the Odin Project, Cypress testing
+
+**Thoughts:** Did a lot of reading for the Odin Project on CSS style resets, CSS units, text styles, and CSS properties. All of it was just reading and taking in information, no real hands-on work. Looking forward to making it through this slog.
+
+I did a little bit of hands-on work with Cypress though. I got a project set up and wrote my first test to log in to the Saucedemo website. This could be an important part of my testing portfolio.
+
+**Link to work:** N/A
+
+---
+
 ### Day 25: March 2, 2024
 
 **Today's Progress**: Read HTML tables articles and did hands-on learning
