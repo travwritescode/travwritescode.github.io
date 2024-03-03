@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 25: March 2, 2024
+
+**Today's Progress**: Read HTML tables articles and did hands-on learning
+
+**Thoughts:** Learned a lot about HTML tables. I did a lot of hands-on learning on this topic too. Despite tables being kind of boring honestly, there was a challenge placed in front of me at the end of the articles and I had a lot of fun rising to it and completing it. I am excited to keep working on this intermediate learning though.
+
+Unrelated but I also got Cypress set up in a new directory in my test automation portfolio. I intend to work on automating the saucedemo website and learning Cypress along the way. This feels pretty important to make steady progress on so I can find a job.
+
+**Link to work:** N/A
+
+---
+
 ### Day 24: March 1, 2024
 
 **Today's Progress**: Got started on Intermediate HTML & CSS Course
