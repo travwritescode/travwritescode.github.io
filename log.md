@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 27: March 4, 2024
+
+**Today's Progress**: Another day of lots of reading about CSS properties with a little bit of Cypress testing
+
+**Thoughts:** I read about advanced CSS selectors like chaining selectors, sibling selectors, and pseudoclass selectors. We covered some material on positioning with CSS properties too. Then we got into CSS functions and the available built-in functions.
+
+Then I just worked on Cypress testing the Saucedemo website.
+
+**Link to work:** N/A
+
+---
+
 ### Day 26: March 3, 2024
 
 **Today's Progress**: Lots of reading for the Odin Project, Cypress testing
