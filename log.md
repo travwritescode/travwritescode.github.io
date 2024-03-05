@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 28: March 5, 2024
+
+**Today's Progress**: More more reading on CSS concepts. Finished happy path tests for Saucedemo Cypress testing.
+
+**Thoughts:** This morning I finished reading articles about CSS custom properties. These are mostly about CSS variables, how to declare them, and how to use fallback properties in them. I read a little article about browser compatibility which also covered a short history of internet browsers. Then I wrapped up with reading about CSS frameworks and preprocessors. The main takeaway from these readings was the frameworks should not be used until I have a really good grasp on vanilla CSS. I could become too dependent on the framework and know a lot less about the CSS that builds it.
+
+I spent the rest of my time this morning working on my test automation portfolio, specifically finishing up the happy path tests for the Saucedemo website. I went about this in a fairly unstructured and unplanned way so I may want to review all of the website functionality and make sure I have covered all the bases. It may even be a good idea to write up a series of user stories that could have been created when developing the website and make a sort of traceability matrix.
+
+**Link to work:** [cy-saucedemo](https://github.com/travwritescode/test-portfolio/blob/main/cy-saucedemo/cypress/e2e/spec.cy.js) - Full checkout and logout flow
+
+---
+
 ### Day 27: March 4, 2024
 
 **Today's Progress**: Another day of lots of reading about CSS properties with a little bit of Cypress testing
