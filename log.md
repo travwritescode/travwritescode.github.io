@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 28: March 5, 2024
+### Day 30: March 7, 2024
 
 **Today's Progress**: Some more reading and active learning on HTML forms, worked a little bit on my Cypress portfolio
 
