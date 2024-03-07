@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 28: March 5, 2024
+
+**Today's Progress**: Some more reading and active learning on HTML forms, worked a little bit on my Cypress portfolio
+
+**Thoughts:** More reading and active learning on HTML forms and boy am I not enjoying that. HTML forms are complicated, complex, and honestly kind of boring. To be totally honest, I am not enjoying the engineering of them and find myself wondering how best to style them and make them look good. Probably a good indication that my mind is headed toward more web design type work. I am going to continue with the Odin Project but I am wondering how I can get some more learning on the design lessons into my curriculum.
+
+I worked on my Cypress portfolio a little bit too. Holy crap is Cypress just SO easy to use. I would love to find a job where I could use Cypress as my primary testing tool.
+
+**Link to work:** [cy-saucedemo](https://github.com/travwritescode/test-portfolio/blob/main/cy-saucedemo/cypress/e2e/spec.cy.js) - Happy Path and Login tests
+
+---
+
+
 ### Day 29: March 6, 2024
 
 **Today's Progress**: Reading and active learning on HTML forms
