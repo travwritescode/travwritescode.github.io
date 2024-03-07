@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 29: March 6, 2024
+
+**Today's Progress**: Reading and active learning on HTML forms
+
+**Thoughts:** Just a lot of reading and following along with coding on HTML forms. I woke up very early today to get my hour of coding and meditation done before I went skiing at Solitude. It was really hard to focus because I was so tired but I got it done and learned a little bit along the way.
+
+**Link to work:** N/A
+
+---
+
 ### Day 28: March 5, 2024
 
 **Today's Progress**: More more reading on CSS concepts. Finished happy path tests for Saucedemo Cypress testing.
