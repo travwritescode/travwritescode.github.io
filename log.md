@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 32: March 9, 2024
+
+**Today's Progress**: Reading and active learning on HTML forms
+
+**Thoughts:** I followed along with the styling CSS forms article. I actually paid attention and learned a lot. I didn't really like the example though because it felt weird making a damn postcard in HTML and CSS. I want to learn how to style modern forms and make the user experience as good as it can be.
+
+**Link to work:** N/A
+
+---
+
+### Day 31: March 8, 2024
+
+**Today's Progress**: Reading and active learning on HTML forms
+
+**Thoughts:** Today was like pulling teeth, both for my coding and my meditation. I was feeling particularly burnt out, and I didn't do a very good job focusing. I did kind of stop early with my coding too. I guess its a good thing this doesn't count towards my streak on GitHub. I am doing this on March 9th.
+
+**Link to work:** N/A
+
+---
+
 ### Day 30: March 7, 2024
 
 **Today's Progress**: Some more reading and active learning on HTML forms, worked a little bit on my Cypress portfolio
