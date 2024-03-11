@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 33: March 10, 2024
+
+**Today's Progress**: Reading and active learning on HTML forms
+
+**Thoughts:** Finally finished the MDN articles on HTML forms and styling HTML forms. I really don't like reading MDN docs even though I know they are the most up to date and current information on the topics.
+
+I continued on with the Interneting is Hard forms tutorial which I do like a little bit more. I am just so tired today and so ready to be done with HTML forms.
+
+**Link to work:** N/A
+
+---
+
 ### Day 32: March 9, 2024
 
 **Today's Progress**: Reading and active learning on HTML forms
