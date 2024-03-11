@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 34: March 11, 2024
+
+**Today's Progress**: Reading and active learning on HTML forms
+
+**Thoughts:** More reading. God I am sick of reading about HTML forms. I really need to get on to the next project and move on from this course.
+
+**Link to work:** N/A
+
+---
+
 ### Day 33: March 10, 2024
 
 **Today's Progress**: Reading and active learning on HTML forms
