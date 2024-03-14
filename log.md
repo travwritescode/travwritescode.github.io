@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 36: March 13, 2024
+
+**Today's Progress**: Working on the forms project
+
+**Thoughts:** Finally into some more coding on my own! It felt good to get back to writing code and designing a web page on my own. I got into a flow pretty easily after a while and jammed on a full hour-long pomodoro timer with no break.
+
+I feel pretty good about getting the HTML scaffolding mostly done and a decently well-designed banner. A small issue with the banner's resizing I need to fix and then working on the layout of the form!
+
+**Link to work:** [signup-form](https://github.com/travwritescode/sign-up-form)
+
+---
+
+### Day 35: March 12, 2024
+
+**Today's Progress**: Reading and active learning on HTML forms
+
+**Thoughts:** FINALLY finished reading all of the assigned material about HTML forms and styling forms. I finished up the form validation articles today by just skimming most of the material because it tends to start repeating.
+
+Reached the forms project and I am excited to get back to actually coding and stretching myself.
+
+**Link to work:** N/A
+
+---
+
 ### Day 34: March 11, 2024
 
 **Today's Progress**: Reading and active learning on HTML forms
