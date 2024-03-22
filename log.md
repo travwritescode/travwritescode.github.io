@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 37: March 22, 2024
+
+**Today's Progress**: Dialing in design and layout of forms project
+
+**Thoughts:** Back after a little bit over a week off. Honestly, the stuff I was so concerned about coming back to proved to be not that bad at all. I quickly got the input layout working a bit better and laid out the three sections properly. Now I am really just applying CSS to get it all looking like the design doc.
+
+A little bit of work is needed to override the form and button designs but it should all be pretty straightforward and definitely doable. 
+
+**Link to work:** [signup-form](https://github.com/travwritescode/sign-up-form)
+
+---
+
 ### Day 36: March 13, 2024
 
 **Today's Progress**: Working on the forms project
