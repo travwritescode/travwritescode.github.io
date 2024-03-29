@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 38: March 27, 2024
+
+**Today's Progress**: More tweaking of design to forms page, fiddling with GitHub actions for test portfolio
+
+**Thoughts:** Adjusting design elements of the forms project including the styles on all of the inputs, submit button styling, and general fonts on the page. I am so close to finishing up this project, just need to finish with the design details and then make the password match checking work.
+
+The GitHub actions work is kind of weird, just getting everything to run and even load up properly. Hopefully once I get the Python Selenium package installed and the Cypress tests running properly then it'll be plug and play for any further test suites.
+
+**Link to work:** [signup-form](https://github.com/travwritescode/sign-up-form)
+
+---
+
 ### Day 37: March 22, 2024
 
 **Today's Progress**: Dialing in design and layout of forms project
