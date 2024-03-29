@@ -1,5 +1,274 @@
 # 100 Days Of Code - Log
 
+### Day 38: March 27, 2024
+
+**Today's Progress**: More tweaking of design to forms page, fiddling with GitHub actions for test portfolio
+
+**Thoughts:** Adjusting design elements of the forms project including the styles on all of the inputs, submit button styling, and general fonts on the page. I am so close to finishing up this project, just need to finish with the design details and then make the password match checking work.
+
+The GitHub actions work is kind of weird, just getting everything to run and even load up properly. Hopefully once I get the Python Selenium package installed and the Cypress tests running properly then it'll be plug and play for any further test suites.
+
+**Link to work:** [signup-form](https://github.com/travwritescode/sign-up-form)
+
+---
+
+### Day 37: March 22, 2024
+
+**Today's Progress**: Dialing in design and layout of forms project
+
+**Thoughts:** Back after a little bit over a week off. Honestly, the stuff I was so concerned about coming back to proved to be not that bad at all. I quickly got the input layout working a bit better and laid out the three sections properly. Now I am really just applying CSS to get it all looking like the design doc.
+
+A little bit of work is needed to override the form and button designs but it should all be pretty straightforward and definitely doable. 
+
+**Link to work:** [signup-form](https://github.com/travwritescode/sign-up-form)
+
+---
+
+### Day 36: March 13, 2024
+
+**Today's Progress**: Working on the forms project
+
+**Thoughts:** Finally into some more coding on my own! It felt good to get back to writing code and designing a web page on my own. I got into a flow pretty easily after a while and jammed on a full hour-long pomodoro timer with no break.
+
+I feel pretty good about getting the HTML scaffolding mostly done and a decently well-designed banner. A small issue with the banner's resizing I need to fix and then working on the layout of the form!
+
+**Link to work:** [signup-form](https://github.com/travwritescode/sign-up-form)
+
+---
+
+### Day 35: March 12, 2024
+
+**Today's Progress**: Reading and active learning on HTML forms
+
+**Thoughts:** FINALLY finished reading all of the assigned material about HTML forms and styling forms. I finished up the form validation articles today by just skimming most of the material because it tends to start repeating.
+
+Reached the forms project and I am excited to get back to actually coding and stretching myself.
+
+**Link to work:** N/A
+
+---
+
+### Day 34: March 11, 2024
+
+**Today's Progress**: Reading and active learning on HTML forms
+
+**Thoughts:** More reading. God I am sick of reading about HTML forms. I really need to get on to the next project and move on from this course.
+
+**Link to work:** N/A
+
+---
+
+### Day 33: March 10, 2024
+
+**Today's Progress**: Reading and active learning on HTML forms
+
+**Thoughts:** Finally finished the MDN articles on HTML forms and styling HTML forms. I really don't like reading MDN docs even though I know they are the most up to date and current information on the topics.
+
+I continued on with the Interneting is Hard forms tutorial which I do like a little bit more. I am just so tired today and so ready to be done with HTML forms.
+
+**Link to work:** N/A
+
+---
+
+### Day 32: March 9, 2024
+
+**Today's Progress**: Reading and active learning on HTML forms
+
+**Thoughts:** I followed along with the styling CSS forms article. I actually paid attention and learned a lot. I didn't really like the example though because it felt weird making a damn postcard in HTML and CSS. I want to learn how to style modern forms and make the user experience as good as it can be.
+
+**Link to work:** N/A
+
+---
+
+### Day 31: March 8, 2024
+
+**Today's Progress**: Reading and active learning on HTML forms
+
+**Thoughts:** Today was like pulling teeth, both for my coding and my meditation. I was feeling particularly burnt out, and I didn't do a very good job focusing. I did kind of stop early with my coding too. I guess its a good thing this doesn't count towards my streak on GitHub. I am doing this on March 9th.
+
+**Link to work:** N/A
+
+---
+
+### Day 30: March 7, 2024
+
+**Today's Progress**: Some more reading and active learning on HTML forms, worked a little bit on my Cypress portfolio
+
+**Thoughts:** More reading and active learning on HTML forms and boy am I not enjoying that. HTML forms are complicated, complex, and honestly kind of boring. To be totally honest, I am not enjoying the engineering of them and find myself wondering how best to style them and make them look good. Probably a good indication that my mind is headed toward more web design type work. I am going to continue with the Odin Project but I am wondering how I can get some more learning on the design lessons into my curriculum.
+
+I worked on my Cypress portfolio a little bit too. Holy crap is Cypress just SO easy to use. I would love to find a job where I could use Cypress as my primary testing tool.
+
+**Link to work:** [cy-saucedemo](https://github.com/travwritescode/test-portfolio/blob/main/cy-saucedemo/cypress/e2e/spec.cy.js) - Happy Path and Login tests
+
+---
+
+
+### Day 29: March 6, 2024
+
+**Today's Progress**: Reading and active learning on HTML forms
+
+**Thoughts:** Just a lot of reading and following along with coding on HTML forms. I woke up very early today to get my hour of coding and meditation done before I went skiing at Solitude. It was really hard to focus because I was so tired but I got it done and learned a little bit along the way.
+
+**Link to work:** N/A
+
+---
+
+### Day 28: March 5, 2024
+
+**Today's Progress**: More more reading on CSS concepts. Finished happy path tests for Saucedemo Cypress testing.
+
+**Thoughts:** This morning I finished reading articles about CSS custom properties. These are mostly about CSS variables, how to declare them, and how to use fallback properties in them. I read a little article about browser compatibility which also covered a short history of internet browsers. Then I wrapped up with reading about CSS frameworks and preprocessors. The main takeaway from these readings was the frameworks should not be used until I have a really good grasp on vanilla CSS. I could become too dependent on the framework and know a lot less about the CSS that builds it.
+
+I spent the rest of my time this morning working on my test automation portfolio, specifically finishing up the happy path tests for the Saucedemo website. I went about this in a fairly unstructured and unplanned way so I may want to review all of the website functionality and make sure I have covered all the bases. It may even be a good idea to write up a series of user stories that could have been created when developing the website and make a sort of traceability matrix.
+
+**Link to work:** [cy-saucedemo](https://github.com/travwritescode/test-portfolio/blob/main/cy-saucedemo/cypress/e2e/spec.cy.js) - Full checkout and logout flow
+
+---
+
+### Day 27: March 4, 2024
+
+**Today's Progress**: Another day of lots of reading about CSS properties with a little bit of Cypress testing
+
+**Thoughts:** I read about advanced CSS selectors like chaining selectors, sibling selectors, and pseudoclass selectors. We covered some material on positioning with CSS properties too. Then we got into CSS functions and the available built-in functions.
+
+Then I just worked on Cypress testing the Saucedemo website.
+
+**Link to work:** N/A
+
+---
+
+### Day 26: March 3, 2024
+
+**Today's Progress**: Lots of reading for the Odin Project, Cypress testing
+
+**Thoughts:** Did a lot of reading for the Odin Project on CSS style resets, CSS units, text styles, and CSS properties. All of it was just reading and taking in information, no real hands-on work. Looking forward to making it through this slog.
+
+I did a little bit of hands-on work with Cypress though. I got a project set up and wrote my first test to log in to the Saucedemo website. This could be an important part of my testing portfolio.
+
+**Link to work:** N/A
+
+---
+
+### Day 25: March 2, 2024
+
+**Today's Progress**: Read HTML tables articles and did hands-on learning
+
+**Thoughts:** Learned a lot about HTML tables. I did a lot of hands-on learning on this topic too. Despite tables being kind of boring honestly, there was a challenge placed in front of me at the end of the articles and I had a lot of fun rising to it and completing it. I am excited to keep working on this intermediate learning though.
+
+Unrelated but I also got Cypress set up in a new directory in my test automation portfolio. I intend to work on automating the saucedemo website and learning Cypress along the way. This feels pretty important to make steady progress on so I can find a job.
+
+**Link to work:** N/A
+
+---
+
+### Day 24: March 1, 2024
+
+**Today's Progress**: Got started on Intermediate HTML & CSS Course
+
+**Thoughts:** Light day today. Just getting started with some modules in the Intermediate HTML & CSS Course on the Odin Project. I learned about Emmet which is going to be a hugely powerful tool when I am writing HTML on future projects. I also learned about SVGs. This is exciting to me because it is a visual medium and potential outlet for a lot of creativity in my projects.
+
+**Link to work:** N/A
+
+---
+
+### Day 23: February 29, 2024
+
+**Today's Progress**: Finished the Calculator project and the Foundations course
+
+**Thoughts:** BIG day today because I FINISHED the Foundations course! And as part of that I also finished the biggest project of that course: the Calculator project. The project was challenging at times and a great summary of everything to do with HTML, CSS, and JavaScript. I am very proud of my finished product with the calculator as I completed all checkpoints, including extra credit ones, except for the keyboard support. I will probably want to come back to this some time in the future to refactor and see if I can improve the code.
+
+Now, on to bigger things! It is time to start the Intermediate HTML and CSS course and deepen my knowledge of these front-end technologies. This is what excites me most right now because it is a fun creative outlet and I may want to get a job as a web designer. Knowing how these things work will help me to get a job or just get better at it!
+
+**Link to work:** [Calculator Project](https://github.com/travwritescode/calculator) - [Live Preview](https://travwritescode.github.io/calculator/)
+
+---
+
+### Day 22: February 28, 2024
+
+**Today's Progress**: Continued working on Calculator project
+
+**Thoughts:** making good progress on the calculator project. I kind of borked the visual display of it when I changed it up to try and use flex-grow to style it better. I put that issue on the shelf for a bit while I move on to the calculator functionality, which is coming along very well! Slowly solving problems and getting closer to a full solution.
+Tomorrow I think I will be tackling stringing operations together by just clicking the operators buttons again. I think this will be achieved with conditionals checking that the number variables are cleared, so I will need to stay on top of that with a clean code loop.
+
+**Link to work:** [Calculator Project](https://github.com/travwritescode/calculator)
+
+---
+
+### Day 21: February 27, 2024
+
+**Today's Progress**: Started on the Calculator project
+
+**Thoughts:** Getting started on the Calculator project for the Odin Project. I got the basic JavaScript functions set up and got some basic visual presentation set up. I think styling this a lot more is something I probably want to do at some point in the future. Flexbox is still pretty difficult for me so I think I probably need to spend some time reviewing and practicing it again.
+I left off on step 5, creating the functions to populate the display of the calculator. This might be a little bit tricky because each button needs to display a different value. I should spend a little bit of time thinking about how I want to implement this.
+
+**Link to work:** [Calculator Project](https://github.com/travwritescode/calculator)
+
+---
+
+### Day 20: February 26, 2024
+
+**Today's Progress**: Finished JavaScript exercises
+
+**Thoughts:** Yikes. The `findTheOldest()` solution took me way too long. I had sort convoluted the logic of a couple of different things and was using the wrong function to check the one of the values existed. After some help from Discord and more trial and error, including debugging in VSCode, I have a working solution!
+That was a ton of work but I have done a good job of sticking with it and perservering to arrive at a solution. Excited to start on the final project for the Foundations course and move on to the JavaScript path!
+
+**Link to work:** N/A - JavaScript exercises
+
+---
+
+### Day 19: February 25, 2024
+
+**Today's Progress**: Continuing work on JavaScript exercises
+
+**Thoughts:** Worked more on the JavaScript exercises files. I got the `getTheTitles.js` tests solved (though not using JS array methods) but I am really struggling with the `getTheOldest.js`. I can't figure out the `.reduce()` method and how that is supposed to be used for the solution on this one. I think I will need some help from the people in the Discord channel for JS help.
+
+**Link to work:** N/A - JavaScript exercises
+
+---
+
+### Day 18: February 24, 2024
+
+**Today's Progress**: JavaScript Exercises progress
+
+**Thoughts:** Did JavaScript exercises from the Odin Porject JavaScript Exercises repo. Completed the calculator, palindromes, and fibonacci exercises. My solution for fibonacci was definitely pretty hacky and poorly organized and optimized. My solution for the palindromes exercise was pretty spot on though. A lack of understanding of how regular expressions work made my solution look a bit messy. I will need to revisit those and watch the video I have saved in my to-dos.
+
+**Link to work:** N/A - JavaScript exercises
+
+---
+
+### Day 17: February 23, 2024
+
+**Today's Progress**: Objects module progress.
+
+**Thoughts:** This module is a dense one. This is the first real practice with a lot of callback functions and these array methods we are learning in `filter()`, `map()` and `reduce()` are going to be hugely important for upcoming work. I am definitely going to take my time with the exercises and make sure I have them down and well understood before moving on.
+Definitely a little bit distracted today before we fly out in the morning to go to MN. Will need to get my coding in on the plane in the morning.
+
+**Link to work:** N/A - Objects Module
+
+---
+
+### Day 16: February 22, 2024
+
+**Today's Progress**: Finished the Etch-A-Sketch project.
+
+**Thoughts:** Etch-A-Sketch was a fun one! It was a little bit tricky in the middle there but I got it all working properly. I could have improved it with the extra credit problems and some better styling, but I think it is a pretty darn good solution!
+Excited to wrap up the Fundamentals course and move on to my JavaScript path!
+
+**Link to work:** Finished [Etch-A-Sketch](https://travwritescode.github.io/etch-a-sketch/)
+
+---
+
+### Day 15: February 21, 2024
+
+**Today's Progress**: Finished the Rock Paper Scissors UI portion with winner message display. Started on the etch-a-sketch project.
+
+**Thoughts:** I think I could probably make some improvements to the game flow of the rock paper scissors game. It doesn't need to be the most optimized web page but the way it is set up right now is a little bit inefficient.
+I got started on the etch-a-sketch project too. While previously I was intimidated by this one, getting it set up and a basic grid and functionality was a breeze. I suspect I should be able to wrap this one up rather quickly once I sit down to work on it again.
+
+**Link to work:** Finished Rock Paper Scissors [Rock Paper Scissors](https://travwritescode.github.io/rock-paper-scissors/)
+
+---
+
 ### Day 14: February 20, 2024
 
 **Today's Progress**: Finsihed DOM Manipulation Module and started Rock Paper Scissors UI
