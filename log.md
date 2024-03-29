@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 39: March 29, 2024
+
+**Today's Progress**: Just some work on setting up my GitHub page and blog
+
+**Thoughts:** Learning how to use Jekyll, a little bit of HTML variables and templating, and YML to get a basic blog set up on my GitHub page profile. This I do intend to sort of use as a protfolio of sorts, considering it is hosted freely and pretty simple to set up. Kind of nice to use a Jekyll theme for now too. Maybe I could switch to something else in the future at some point if I don't like what Jekyll has to offer?
+
+**Link to work:** https://travwritescode.github.io/
+
+---
+
 ### Day 38: March 27, 2024
 
 **Today's Progress**: More tweaking of design to forms page, fiddling with GitHub actions for test portfolio
