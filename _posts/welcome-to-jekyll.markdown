@@ -1,4 +1,6 @@
 ---
+# Renamed this file to try and ignore it in the normal flow of blog posts
+# If it breaks everything I will jsut delete it.
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2024-05-11 14:29:30 -0600
