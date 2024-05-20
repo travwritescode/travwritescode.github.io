@@ -29,6 +29,11 @@ url: "https://travwritescode.github.io" # the base hostname & protocol for your 
 domain: travwritescode.github.io
 github_username:  travwritescode
 linkedin_username: travis-anderson-photo
+logo: "./Square-Portrait-Small.jpg"
+github:
+  is_user_page: true
+  is_project_page: false
+  owner_url: https://github.com/travwritescode
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0

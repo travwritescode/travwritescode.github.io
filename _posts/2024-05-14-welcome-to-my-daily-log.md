@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to My Blog!"
 date:   2024-05-14
-categories: daily
+tags: qa daily
 ---
 
 Hello! If you are reading this, welcome to the blog section of my professional website, and thank you for being here.
