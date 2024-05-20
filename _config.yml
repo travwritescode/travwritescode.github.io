@@ -34,7 +34,6 @@ github:
   is_user_page: true
   is_project_page: false
   owner_url: https://github.com/travwritescode
-google-analytics: G-FKPX82LFF5
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
