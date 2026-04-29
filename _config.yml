@@ -21,15 +21,16 @@
 title: Travis Anderson
 email: travis.anderson30@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An online resume, professional story, and repository for all things Travis.
-  On this site you can find everything I am working on currently, links to
-  my most relevant code repositories, and a log of my daily coding practice.
+  Senior SDET | Playwright · Cypress · Pact
+  Building out in the open
+  Currently working on:
+  To-Do List App (React, FastAPI, Playwright, Pact, Docker)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://travwritescode.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: travwritescode.github.io
 github_username:  travwritescode
-linkedin_username: travis-anderson-photo
-logo: "./Square-Portrait-Small.jpg"
+linkedin_username: travis-anderson-sdet
+logo: "./_DSC0192.jpg"
 github:
   is_user_page: true
   is_project_page: false
