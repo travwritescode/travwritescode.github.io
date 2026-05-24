@@ -1,0 +1,121 @@
+cv:
+  name: Travis Anderson
+  label: Senior SDET
+  email: travis.anderson30@gmail.com
+  location: Salt Lake City, UT
+  image: ""
+  summary: >-
+    Senior SDET with a decade in QA and test automation. I build maintainable
+    end-to-end and contract test suites with Playwright, Cypress, and Pact,
+    own testing strategy from sprint planning through release, and treat test
+    automation tooling as a product engineers want to use.
+
+  social_networks:
+    - network: GitHub
+      username: travwritescode
+    - network: LinkedIn
+      username: travis-anderson-sdet
+
+  sections:
+    Experience:
+      - company: Giv
+        position: Senior SDET
+        location: Remote
+        start_date: 2024-04-01
+        end_date: 2026-04-01
+        summary: Sole SDET responsible for the company's entire testing platform across web and API surfaces.
+        highlights:
+          - Built and owned end-to-end and API test suites with Playwright and Pact contract testing.
+          - Defined the QA process across the SDLC, partnering with engineering, product, and design on test strategy.
+          - Stood up CI test infrastructure that gave engineers fast, reliable feedback on every pull request.
+
+      - company: Datapeople
+        position: Linguist
+        location: Remote
+        start_date: 2021-01-01
+        end_date: 2023-01-01
+        summary: Maintained and extended the natural-language rule database powering Datapeople's web editor for job descriptions.
+        highlights:
+          - Updated and tested language guidance rules in Datapeople's proprietary encoding format based on customer feedback.
+          - Built two new features in the team's internal Flask tooling using Python and SQL to improve linguists' efficiency in testing new rules.
+          - Performed manual UI testing of new language guidance features in the SaaS editor.
+
+      - company: Flowhub
+        position: QA Engineer
+        location: Denver, CO (remote)
+        start_date: 2019-01-01
+        end_date: 2020-01-01
+        summary: Second QA hire at a cannabis-tech startup, with a mandate to get test automation off the ground.
+        highlights:
+          - Implemented test-coverage reporting on the existing Cypress test suite and expanded automated coverage of Flowhub's two core products.
+          - Embedded in an agile team building the first iteration of Flowhub Maui (next-generation point-of-sale).
+          - Managed QA work throughout the SDLC, from sprint planning through release.
+
+      - company: Xactly
+        position: QA Engineer
+        location: Denver, CO
+        start_date: 2018-01-01
+        end_date: 2019-01-01
+        summary: QA Engineer on the team building Xactly's next-generation sales incentive tracking software.
+        highlights:
+          - Managed manual QA testing responsibilities while building E2E and robust regression automated test suites.
+          - Developed a strong philosophy on the balance between manual and automated testing and a sound approach to regression testing.
+
+      - company: Magenic
+        position: QA Consultant
+        location: Minneapolis, MN
+        start_date: 2016-01-01
+        end_date: 2018-01-01
+        summary: First role in software, consulting with clients including Meijer, Polaris, and Staples.
+        highlights:
+          - Built API test automation for Meijer's store pickup program.
+          - Tested a mobile app for Polaris dealers to look up vehicle information.
+          - Manually tested an indoor GPS navigation app for Staples HQ employees in Framingham.
+
+    Certifications:
+      - name: ISTQB Certified Tester Foundation Level
+        date: 2023-01-01
+        issuer: International Software Testing Qualifications Board
+        icon: fa-solid fa-certificate
+
+      - name: Utah Real Estate License
+        date: 2023-01-01
+        issuer: Utah Division of Real Estate
+        icon: fa-solid fa-house
+
+    Skills:
+      - name: Test Automation
+        level: Master
+        icon: fa-solid fa-vial
+        keywords: "Playwright, Cypress, Pact, Selenium, Page Object Model, contract testing, E2E, regression"
+
+      - name: Languages & Tooling
+        level: Proficient
+        icon: fa-solid fa-code
+        keywords: "Python, JavaScript, TypeScript, SQL, Docker, GitHub Actions, FastAPI, React, Flask"
+
+      - name: QA Process
+        level: Master
+        icon: fa-solid fa-list-check
+        keywords: "Test strategy, SDLC ownership, agile QA, manual testing, CI test infrastructure"
+
+    Volunteer:
+      - company: First Descents
+        position: Volunteer Photographer
+        location: Salida, CO
+        start_date: 2023-08-01
+        end_date: 2023-08-31
+        summary: Documented a wilderness-therapy kayaking trip on the Arkansas River for young adults living with cancer diagnoses.
+
+    Languages:
+      - name: English
+        summary: "Native speaker"
+
+    Interests:
+      - name: Outdoors
+        icon: fa-solid fa-mountain
+        keywords: "Skiing, kayaking, photography"
+
+      - name: Software Testing
+        icon: fa-solid fa-bug
+        keywords: "Test automation, contract testing, developer experience"

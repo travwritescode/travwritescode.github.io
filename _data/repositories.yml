@@ -1,0 +1,8 @@
+github_users:
+  - travwritescode
+
+repo_description_lines_max: 2
+
+github_repos:
+  - travwritescode/test-portfolio
+  - travwritescode/travwritescode.github.io

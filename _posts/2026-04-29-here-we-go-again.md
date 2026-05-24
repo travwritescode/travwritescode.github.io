@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Here We Go Again"
-date:   2026-04-29
+title: "Here We Go Again"
+date: 2026-04-29
+description: Laid off from Giv. Pointing my energy at a new to-do list app and its full testing stack.
 tags: qa webdev daily
 ---
 After nearly two years at Giv, my time came to an end unexpectedly. I was laid off from my position as the company's sole SDET as engineering leadership decided to "go lean" without QA due to their current stage as a startup.

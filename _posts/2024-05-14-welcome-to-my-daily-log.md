@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Welcome to My Blog!"
-date:   2024-05-14
+title: "Welcome to My Blog!"
+date: 2024-05-14
+description: Kicking off this blog as a working log of what I'm building, learning, and studying day to day.
 tags: qa daily
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Web Development and Lots of Job Apps"
-date:   2024-05-22
+title: "Web Development and Lots of Job Apps"
+date: 2024-05-22
+description: Shouting into the LinkedIn void, drafting a first-pass career story for the site, and learning CSS Grid.
 tags: qa webdev daily
 ---
 I found myself doomscrolling LinkedIn today. Isn't that weird? It's kind of like disaster porn except I'm living everyone else's despair about the job market while distracting myself from my own hopelessness.

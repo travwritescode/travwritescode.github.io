@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Web Development, Test Automation Portfolio Organization, and a Live Blog"
-date:   2024-05-20
+title: "Web Development, Test Automation Portfolio Organization, and a Live Blog"
+date: 2024-05-20
+description: Three rejections before lunch, picking The Odin Project back up, and tidying the test-automation portfolio repo.
 tags: qa webdev daily
 ---
 I started the day off with not one, not two, but three job application rejections in my email inbox. Not good.

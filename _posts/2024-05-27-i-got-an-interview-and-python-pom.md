@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "I Got An Interview! Plus Python Page-Object-Model Refresher"
-date:   2024-05-27
+title: "I Got An Interview! Plus Python Page-Object-Model Refresher"
+date: 2024-05-27
+description: First interview in months — and scaffolding a Python + Selenium Page Object Model project to get back into shape.
 tags: qa webdev daily
 ---
 Okay, so this happened on Friday but I haven't written an update since then: I got an interview! It almost feels unreal because it has been literal months since I last got an interview beyond a recruiter screen, but I am so stoked. I would be the first QA Engineer hired by the company, I would come in and focus heavily on automated testing, and would have a large role in building the team from there.
